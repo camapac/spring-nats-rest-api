@@ -11,6 +11,7 @@
 		<module>user-backend-service</module>
 		<module>notification-backend-service</module>
 		<module>inventory-backend-service</module>
+		<module>spring-nats-utils</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
